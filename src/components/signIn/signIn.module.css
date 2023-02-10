@@ -1,0 +1,45 @@
+.body {
+  min-height: 100vh;
+}
+.content {
+  background: #ffffff;
+  border-radius: 14.6709px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.heading {
+  width: 79.8px;
+  height: 111.64px;
+  left: 560.48px;
+  top: calc(50% - 111.64px / 2 - 129.68px);
+
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 22.9009px;
+  line-height: 51px;
+  /* or 221% */
+
+  display: flex;
+  align-items: center;
+}
+.email {
+  box-sizing: border-box;
+  width: 452.29px;
+  height: 47.23px;
+  /* border: 1.07348px solid #d2d6da; */
+  border-radius: 6.08304px;
+}
+.password {
+  box-sizing: border-box;
+  width: 452.29px;
+  height: 47.23px;
+  /* border: 1.07348px solid #d2d6da; */
+  border-radius: 6.08304px;
+}
+.signInBtn {
+  background: #ee562a;
+  border-radius: 7.87217px;
+}
